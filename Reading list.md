@@ -1,0 +1,8 @@
+# Reading list
+
+| Title                                                        | Recommended Chapter                                          | URL_EN                                                       | URL_JP                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Protocol:  How Control Exists After Decentralization         | Chapter 1. Physical Media                                    | https://www.dropbox.com/s/tnmksorg7f647av/GALLOWAY-Alexander.-Protocol.pdf?dl=0 | https://drive.google.com/file/d/1ALCMo9WpKn6ZyvzogWwAIQag1EURQEIP/view?usp=sharing |
+| CODE:  The Hidden Language of Computer Hardware and Software | Chapter 2. Code and Combinations Chapter 18. From Abaci to Chips | https://www.dropbox.com/sh/tlghstn2axkt9gs/AADV_0_9uOhjBblXjeIL037Sa?dl=0 | https://drive.google.com/file/d/11ir9-hP9eesQOiwcSxzmKMQiRe7flrm5/view?usp=sharing |
+| General Will 2.0                                             | Foreword (Can download the kindle sample version as free)    | https://www.amazon.com/General-Will-2-0-Rousseau-Google/dp/1935654748/ref=sr_1_1?keywords=General+Will+2.0&qid=1564990565&s=gateway&sr=8-1 | https://www.amazon.co.jp/dp/4062932725/                      |
+| Japan the Beautiful and Myself                               |                                                              | https://www.nobelprize.org/prizes/literature/1968/kawabata/lecture/ | https://shikinobi.com/kawabatayasunari#03-1                  |
