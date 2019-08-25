@@ -1,4 +1,4 @@
-#🍻**DNA bar**🍹**CODING** 🍻 
+# 🍻**DNA bar**🍹**CODING** 🍻 
 
 DNA barcoding is a method to know the names of species from DNA. DNA is one of the key elements to bridge life and digital information which we can handle with code. In this workshop, we will learn the very basics of how to handle DNA information using a computer with a DNA cocktail🍹
 
@@ -6,7 +6,7 @@ One of the benefits of using biotechnology in combination with code is that it a
 
 Most lives on earth, such as animals, fish, plants, and microorganisms, have DNA in their bodies as an important score for making their bodies. The information from them can bring us a better understanding of the relationship between species and also the environment around us.
 
-##**Time Table**
+## **Time Table**
 
 15mins: Introduction
 
